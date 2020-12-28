@@ -1,0 +1,9 @@
+Stepper KEYWORD1
+ABSOLUTE    KEYWORD1
+RELATIVE    KEYWORD1
+
+microStepping   KEYWORD2
+getSetMicroSteps    KEYWORD2
+getCurrentPoseSteps KEYWORD2
+getCurrentPoseDegrees   KEYWORD2
+changeDir   KEYWORD2
